@@ -1,4 +1,4 @@
-web developer / logotype designer
+web developer / type designer
 
 TextEncoder App: https://textencoder.github.io/text-encoder/
 
