@@ -1,5 +1,7 @@
-web developer / type designer
+building transformative experiences on the web
 
-TextEncoder App: https://textencoder.github.io/text-encoder/
+Customize logos on the TextEncoder App: https://textencoder.github.io/text-encoder/
 
-Behance Portfolio: https://www.behance.net/textencoder
+Tune in to MinutesXM Radio: https://textencoder.github.io/minutes-to-midnight/
+
+Explore my Behance portfolio: https://www.behance.net/textencoder
