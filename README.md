@@ -1,4 +1,4 @@
-building transformative experiences on the web
+developing transformative experiences on the web
 
 Customize logos on the TextEncoder App: https://textencoder.github.io/text-encoder/
 
