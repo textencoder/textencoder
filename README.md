@@ -2,6 +2,6 @@ developing transformative experiences on the web
 
 Discover your dream color palette @ https://hexgen.app
 
-Tune in to MinutesXM Radio: https://textencoder.github.io/minutes-to-midnight/
+Introducing the next generation of typography: https://textencoder.net
 
 Explore my Behance portfolio: https://www.behance.net/textencoder
