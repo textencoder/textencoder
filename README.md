@@ -1,4 +1,4 @@
-Discover your dream color palette: https://hexgen.ai
+Discover your dream color palette with HexGen: https://hexgen.ai
 
 Explore my interactive logo portfolio: https://textencoder.net
 
